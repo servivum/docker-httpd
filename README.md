@@ -1,4 +1,4 @@
-![Apache 2.4](https://img.shields.io/badge/Apache-2.4-brightgreen.svg?style=flat-square) [![License MIT](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+![Apache 2.4](https://img.shields.io/badge/Apache-2.4-brightgreen.svg?style=flat-square) [![License MIT](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://opensource.org/licenses/MIT) [![Travis](https://img.shields.io/travis/servivum/docker-httpd.svg?style=flat-square)](https://travis-ci.org/servivum/docker-httpd)
 
 # Apache (httpd) Docker
 
