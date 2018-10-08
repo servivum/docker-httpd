@@ -1,0 +1,6 @@
+version: "3.7"
+
+services:
+  apache-2.4-static-website:
+    build:
+      context: 2.4/static-website/
